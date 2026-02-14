@@ -2,7 +2,9 @@
 
 A comprehensive, interactive web application for Bayesian A/B testing with a clean, minimal black-and-white interface. This tool helps data scientists, analysts, and product managers make data-driven decisions using Bayesian statistics.
 
-![Bayesian A/B Testing Framework](https://via.placeholder.com/800x400?text=Bayesian+A/B+Testing+Framework)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-000000.svg?style=for-the-badge)
 
 
 ## Overview
